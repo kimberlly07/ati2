@@ -34,3 +34,9 @@ for (let index = 0; index < estados.length; index++) {
     console.log(index);
     console.log(estados[index]);
     }
+if(10){
+
+}
+else{
+
+}
