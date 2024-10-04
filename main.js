@@ -15,20 +15,11 @@
 // let num1 = parseInt(prompt('Qual o número?'));
 // let num2 = parseInt(prompt('Qual o número?'));
 // let num3 = parseInt(prompt('Qual o número?'));
-// function media (x,y,z){
+// function media (x,y,z)
+// console.log(media(1,2,3));{
 //     return(x,y,z)/z;
 // }
-// console.log(media(1,2,3));
 // document.write(mediaTresvalores);
 let estados=[
-    'Distrito Federal'
-'Goiás'
-'Mato Grosso'
-'Mato Grosso do Sul'
-'Alagoas'
-'Bahia'
-'Ceará'
-'Maranhão'
-'Paraíba'
-'Pernambuco','Piauí','Rio Grande do Norte','Sergipe','Acre','Amapá','Amazonas','Pará','Rondônia','Roraima','Tocantis','Espírito Santo','Minas Gerais','Rio de Janeiro','São Paulo','Paraná','Rio Grande do Sul','Santa Catarina'
+    'Distrito Federal','Goiás','Mato Grosso','Mato Grosso do Sul','Alagoas','Bahia','Ceará','Maranhão','Paraíba','Pernambuco','Piauí','Rio Grande do Norte','Sergipe','Acre','Amapá','Amazonas','Pará','Rondônia','Roraima','Tocantis','Espírito Santo','Minas Gerais','Rio de Janeiro','São Paulo','Paraná','Rio Grande do Sul','Santa Catarina'
 ]
