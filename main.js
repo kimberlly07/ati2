@@ -23,6 +23,3 @@
 let estados=[
     'Distrito Federal','Goiás','Mato Grosso','Mato Grosso do Sul','Alagoas','Bahia','Ceará','Maranhão','Paraíba','Pernambuco','Piauí','Rio Grande do Norte','Sergipe','Acre','Amapá','Amazonas','Pará','Rondônia','Roraima','Tocantis','Espírito Santo','Minas Gerais','Rio de Janeiro','São Paulo','Paraná','Rio Grande do Sul','Santa Catarina'
 ];
-console 
-estados
-
