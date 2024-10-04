@@ -34,6 +34,7 @@ for (let index = 0; index < estados.length; index++) {
     console.log(index);
     console.log(estados[index]);
     }
+let idade = ('idade')
 let idade = parseInt(prompt('Qual é a sua idade?'));
 if(idade>17) {
 console.log();
