@@ -11,8 +11,6 @@
 // let media = function(num1, num2, num3){
 //     return (num1+num2+num3)/3
 // }
-// console.log(media(1,2,3));
-// parseInt(prompt('Me diga três valores para mim tirar a média?'));
 // let mediaTresvalores = ('Média de três valores')
 // let num1 = parseInt(prompt('Qual o número?'));
 // let num2 = parseInt(prompt('Qual o número?'));
@@ -20,6 +18,7 @@
 // function media (x,y,z){
 //     return(x,y,z)/z;
 // }
+// console.log(media(1,2,3));
 // document.write(mediaTresvalores);
 let estados=[
     'Distrito Federal'
